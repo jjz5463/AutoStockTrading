@@ -13,5 +13,9 @@
 
 - The structure of this repository:
   - 'ParentPaper.pdf' ----- pdf of parent paper
-  - 'Original_2009_ParentPaper.ipynb' ----- implmentation of original parent paper (data cover upto 2021-07-06)
-  - 'Original_2009_Updated_ParentPaper.ipynb' ----- updated implmentation of original parent paper (data cover upto 2022-03-21)
+  - 'Original_2009_ParentPaper.ipynb' ----- implementation of original parent paper (data cover upto 2021-07-06)
+  - 'Original_2009_Updated_ParentPaper.ipynb' ----- updated implementation of original parent paper (data cover upto 2022-03-21)
+  - 'FinalModel_2006_NULL_version3_2.ipynb' ----- The final version of modified implementation
+  - 'FunVersion_2006_NULL_version3_2.ipynb' ----- The final version of modified implementation with our chosen stocks
+  - SingleAgentModel
+    - 's'
