@@ -8,5 +8,7 @@
 
 
 - The name scheme of each jupyter notebook is: 
+
   trainingstartyear_novelty_versionOrdinal 
+  
   (versionOrdinal means the order we created each version of models)
