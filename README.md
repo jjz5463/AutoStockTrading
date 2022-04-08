@@ -12,4 +12,6 @@
   (versionOrdinal means the order we created each version of models)
 
 - The structure of this repository:
-  - s
+  - 'ParentPaper.pdf' ----- pdf of parent paper
+  - 'Original_2009_ParentPaper.ipynb' ----- implmentation of original parent paper (data cover upto 2021-07-06)
+  - 'Original_2009_Updated_ParentPaper.ipynb' ----- updated implmentation of original parent paper (data cover upto 2022-03-21)
