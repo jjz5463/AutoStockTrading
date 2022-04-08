@@ -11,7 +11,9 @@
   - several different novelty
     - 6indicators --- adding 2 additional tech indicators (features) to the original model (4 tech indicators already included in the origibal model)
     - 5Agents --- 5 Agents ensembled (PPO, A2C, SAC, TD3, DDPG)
-    -  
+    - Valid --- change of validation ratio
+    - NULL --- no novelty
+    - NewAgent --- replace one of the orginal agents that was ensmbled in parent paper
   
   (versionOrdinal means the order we created each version of models)
 
@@ -35,7 +37,7 @@
 
   - FinRL-Library ----- Folders of FinRL library, which is created by the authors of parent paper
     - 2 modification made by us under (finrl --- drl_agents --- stablebaselines3)
-      - 'models.py --- original ensemble method created by authors of the library (A2C, PPO, and ddpg)
+      - 'models.py' --- original ensemble method created by authors of the library (A2C, PPO, and ddpg)
       - 'models_modified.py' --- ensemble A2C, PPO, and TD3
       - 'models_modified2.py' --- ensemble A2C, PPO, SAC, TD3, and ddpg
 
@@ -49,7 +51,7 @@
   - 1998Model ----- data start traing year in 1998
     - '1998_6indicators_version4.ipynb' ----- Sharpe Ratio 0.51
     - '1998_NULL_version5.ipynb' ----- Sharpe Ratio 0.97
-    - '1998_NULL_version5.ipynb' ----- Sharpe Ratio 0.56
+    - '1998_NewAgent_version6.ipynb ' ----- Sharpe Ratio 0.56
     - '1998_Valid_version5_2.ipynb' ----- Sharpe Ratio 0.81
 
   - 1997Model ----- data start traing year in 1997
