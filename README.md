@@ -17,5 +17,9 @@
   - 'Original_2009_Updated_ParentPaper.ipynb' ----- updated implementation of original parent paper (data cover upto 2022-03-21)
   - 'FinalModel_2006_NULL_version3_2.ipynb' ----- The final version of modified implementation
   - 'FunVersion_2006_NULL_version3_2.ipynb' ----- The final version of modified implementation with our chosen stocks
-  - SingleAgentModel
-    - 's'
+  - SingleAgentModel ----- Folders of 5 single agent model
+    - '2006_A2C.ipynb' ----- Sharpe Ratio 0.57
+    - '2006_PPO.ipynb' ----- Sharpe Ratio 0.58
+    - '2006_SAC.ipynb' ----- Sharpe Ratio 0.16
+    - '2006_TD3.ipynb' ----- Sharpe Ratio 0.58
+    - '2006_ddpg.ipynb' ----- Sharpe Ratio 0.44
