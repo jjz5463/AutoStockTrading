@@ -7,7 +7,7 @@
 
 - The name scheme of each jupyter notebook is: 
 
-  *** TrainingStartYear_Novelty_VersionOrdinal ***  (versionOrdinal means the order we created each version of models)
+  *** TrainingStartYear_Novelty_VersionOrdinal ***  (VersionOrdinal means the order we created each version)
   - several different novelty
     - 6indicators --- adding 2 additional tech indicators (features) to the original model (4 tech indicators already included in the origibal model)
     - 5Agents --- 5 Agents ensembled (PPO, A2C, SAC, TD3, DDPG)
