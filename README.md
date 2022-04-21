@@ -25,6 +25,7 @@
     - Sharpe Ratio 0.94
   - 'FunVersion_2006_NULL_version3_2.ipynb' ----- The final version of modified implementation with our chosen stocks
     - Sharpe Ratio 0.64
+  - '340Paper.doc' ----- Final Paper for DS340W
 
   - SingleAgentModel ----- Folders of 5 single agent model
     - '2006_A2C.ipynb' ----- Sharpe Ratio 0.57
